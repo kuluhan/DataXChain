@@ -15,7 +15,7 @@
     "bitcoinlib": "^1.0.2",
     "bitcore-explorers": "^1.0.1",
     "bitcore-lib": "^8.3.4",
-    "bitcore-p2p": "^8.3.3",
+    "bitcore-p2p": "^8.25.40",
     "body-parser": "^1.19.0",
     "cheerio": "^1.0.0-rc.3",
     "crypto": "^1.0.1",
